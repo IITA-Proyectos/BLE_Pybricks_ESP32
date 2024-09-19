@@ -28,6 +28,10 @@ El codigo en `code\Nano_ESP32\main.py` se sube en la nano esp32
 Los codigo proporcionados deberian hacer que al accionar el sensor de tacto en el Spike se envie la orden a la nano esp32 para mover el servomotor a una posicion especifica
 
 
+Utils Links:
 
+* Documentacion about Nano esp32 --> [Aqui](https://docs.arduino.cc/hardware/nano-esp32/)
 
+* Pinout Nano ESP32 --> [Aqui](https://docs.arduino.cc/resources/pinouts/ABX00083-full-pinout.pdf)
 
+* Ejemplo que seguimos -- >[Aqui](https://pybricks.com/project/micropython-ble-communication/)
