@@ -12,13 +12,13 @@ Con los codigo en el repositorio se puede replicar el siguiente experimento
 
 Como se ve en la siguiente Imagen
 
-![Conexion Sensores con Spike Prime](img\conexion_spike.jpg)
+![Conexion Sensores con Spike Prime](./img/conexion_spike.jpg)
 
 Y una Arduino Nano con un ServoMotor conectado en el PIN 38 --> GPIO (ver pinout micropython)
 
 Como se ve en la siguiente Imagen
 
-![Conexion Sensores con Spike Prime](img\conexion_nano_esp32.jpg)
+![Conexion Sensores con Spike Prime](./img/conexion_nano_esp32.jpg)
 
 
 El codigo en `code\HUB\test_BLE.py` se sube en el Lego Spike Prime
